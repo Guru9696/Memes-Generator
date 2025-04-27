@@ -58,3 +58,5 @@ meme-generator/
 
 Feel free to reach out if you have any questions or need further assistance!
 
+## Contact
+For any inquiries or support, please contact [Your Name] at [your-email@example.com].
